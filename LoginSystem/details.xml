@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Information>
+<Account>
+      <userName>Rajan_007</userName>
+      <Email>rajan@gmail.com</Email>
+      <password>niraj5588</password>
+      <gender>Male</gender>
+      <dateOfBirth>2012/May/6</dateOfBirth>
+   </Account>
+<Account>
+      <userName>niraj</userName>
+      <Email>niraj@gmail.com</Email>
+      <password>niraj007</password>
+      <gender>Male</gender>
+      <dateOfBirth>2012/Jul/7</dateOfBirth>
+   </Account>
+<Account>
+      <userName>mukesh</userName>
+      <Email>mukesh@yahoo.com</Email>
+      <password>mukesh44</password>
+      <gender>Male</gender>
+      <dateOfBirth>2012/Jul/7</dateOfBirth>
+   </Account>
+</Information>
