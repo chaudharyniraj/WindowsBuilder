@@ -97,7 +97,7 @@ public class login {
 				read.ReadXml(email,password);
 				
 				if( read.flag==true) {
-					JOptionPane.showMessageDialog(null, "Sucessful !!");
+					JOptionPane.showMessageDialog(null, "Login Sucessful !!");
 				}
 				else {
 					JOptionPane.showMessageDialog(null, "email or password is incorrect !!");

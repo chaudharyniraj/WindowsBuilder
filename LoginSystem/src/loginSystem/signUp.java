@@ -169,27 +169,27 @@ public class signUp {
 				if(rdbtnFemale.isSelected())
 					gender = "Female";
 				
-				String male = rdbtnMale.getText();
+				//String male = rdbtnMale.getText();
 				//System.out.println(male);
-				String female = rdbtnFemale.getText();
+				//String female = rdbtnFemale.getText();
 				
 				int uname_len = username.length();
 				int email_len = email.length();
 				int password_len = password.length();
 				int conPass_len = con_password.length();
-				int year_len = year.length();
-				int month_len = month.length();
-				int day_len = day.length();
-				int male_len = male.length();
-				int female_len = female.length();
+//				int year_len = year.length();
+//				int month_len = month.length();
+//				int day_len = day.length();
+				//int male_len = male.length();
+				//int female_len = female.length();
 				
 				String user = "^[a-zA-Z0-9_]{5,14}$";
 				String mail = "^[a-z0-9._]+@[a-z.]+\\.[a-z]{2,}$";
 				String pass = "^[a-zA-Z0-9_]{8,14}$";
 			    //if (m.find())
 				
-				if(uname_len>0 && email_len>0 && password_len>0 && conPass_len>0 && year_len>0 && month_len>0 && day_len>0) {
-					if(male_len >0 || female_len >0) {
+				if(uname_len>0 && email_len>0 && password_len>0 && conPass_len>0 && year!="Year" && month!="Month" && day!="Day") {
+					if(rdbtnMale.isSelected() || rdbtnFemale.isSelected()) {
 						JFrame f = new JFrame();
 						Pattern p1 = Pattern.compile(user);
 					    Matcher m1 = p1.matcher(username);

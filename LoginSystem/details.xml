@@ -1,13 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Information>
 <Account>
-      <userName>Rajan_007</userName>
-      <Email>rajan@gmail.com</Email>
-      <password>niraj5588</password>
-      <gender>Male</gender>
-      <dateOfBirth>2012/May/6</dateOfBirth>
-   </Account>
-<Account>
       <userName>niraj</userName>
       <Email>niraj@gmail.com</Email>
       <password>niraj007</password>
@@ -15,59 +8,10 @@
       <dateOfBirth>2012/Jul/7</dateOfBirth>
    </Account>
 <Account>
-      <userName>mukesh</userName>
-      <Email>mukesh@yahoo.com</Email>
-      <password>mukesh44</password>
-      <gender>Male</gender>
-      <dateOfBirth>2012/Jul/7</dateOfBirth>
-   </Account>
-<Account>
-      <userName>sohan</userName>
-      <Email>sohan@gmail.com</Email>
-      <password>sohanvai</password>
-      <gender>Male</gender>
-      <dateOfBirth>5/Jul/1999</dateOfBirth>
-   </Account>
-<Account>
-      <userName>musa007</userName>
+      <userName>musa123</userName>
       <Email>musa@gmail.com</Email>
       <password>musa12345</password>
       <gender>Male</gender>
-      <dateOfBirth>7/Jul/1994</dateOfBirth>
-   </Account>
-<Account>
-      <userName>eshan</userName>
-      <Email>eshan@gmail.com</Email>
-      <password>eshan123</password>
-      <gender/>
-      <dateOfBirth>7/Jul/1998</dateOfBirth>
-   </Account>
-<Account>
-      <userName>niraj00</userName>
-      <Email>niraj@gmail.com</Email>
-      <password>niraj5588</password>
-      <gender/>
-      <dateOfBirth>7/Jun/2012</dateOfBirth>
-   </Account>
-<Account>
-      <userName>hello</userName>
-      <Email>hello@gmail.com</Email>
-      <password>hello123</password>
-      <gender>Male</gender>
-      <dateOfBirth>7/Jul/2012</dateOfBirth>
-   </Account>
-<Account>
-      <userName>hello</userName>
-      <Email>hello@gmail.com</Email>
-      <password>hello123</password>
-      <gender>Female</gender>
-      <dateOfBirth>7/Jul/2012</dateOfBirth>
-   </Account>
-<Account>
-      <userName>hello</userName>
-      <Email>hello@gmail.com</Email>
-      <password>hello123</password>
-      <gender>Female</gender>
-      <dateOfBirth>7/Jul/2012</dateOfBirth>
+      <dateOfBirth>7/Jun/2013</dateOfBirth>
    </Account>
 </Information>
