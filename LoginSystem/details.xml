@@ -21,4 +21,53 @@
       <gender>Male</gender>
       <dateOfBirth>2012/Jul/7</dateOfBirth>
    </Account>
+<Account>
+      <userName>sohan</userName>
+      <Email>sohan@gmail.com</Email>
+      <password>sohanvai</password>
+      <gender>Male</gender>
+      <dateOfBirth>5/Jul/1999</dateOfBirth>
+   </Account>
+<Account>
+      <userName>musa007</userName>
+      <Email>musa@gmail.com</Email>
+      <password>musa12345</password>
+      <gender>Male</gender>
+      <dateOfBirth>7/Jul/1994</dateOfBirth>
+   </Account>
+<Account>
+      <userName>eshan</userName>
+      <Email>eshan@gmail.com</Email>
+      <password>eshan123</password>
+      <gender/>
+      <dateOfBirth>7/Jul/1998</dateOfBirth>
+   </Account>
+<Account>
+      <userName>niraj00</userName>
+      <Email>niraj@gmail.com</Email>
+      <password>niraj5588</password>
+      <gender/>
+      <dateOfBirth>7/Jun/2012</dateOfBirth>
+   </Account>
+<Account>
+      <userName>hello</userName>
+      <Email>hello@gmail.com</Email>
+      <password>hello123</password>
+      <gender>Male</gender>
+      <dateOfBirth>7/Jul/2012</dateOfBirth>
+   </Account>
+<Account>
+      <userName>hello</userName>
+      <Email>hello@gmail.com</Email>
+      <password>hello123</password>
+      <gender>Female</gender>
+      <dateOfBirth>7/Jul/2012</dateOfBirth>
+   </Account>
+<Account>
+      <userName>hello</userName>
+      <Email>hello@gmail.com</Email>
+      <password>hello123</password>
+      <gender>Female</gender>
+      <dateOfBirth>7/Jul/2012</dateOfBirth>
+   </Account>
 </Information>
