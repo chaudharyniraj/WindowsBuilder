@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Information>
+
+<Account>
+      <userName>Musa</userName>
+      <Email>musa@gmail.com</Email>
+      <password>musa1234</password>
+      <balance>20</balance>
+      <dateOfBirth>1/2/1996</dateOfBirth>
+   </Account>
+<Account>
+      <userName>Jahirul</userName>
+      <Email>j.rifat02@gmail.com</Email>
+      <password>jahirul12</password>
+      <balance>3000</balance>
+      <dateOfBirth>2/2/1997</dateOfBirth>
+   </Account>
+<Account>
+      <userName>Rifad</userName>
+      <Email>rifad@gmail.com</Email>
+      <password>rifad123</password>
+      <balance>0</balance>
+      <dateOfBirth>2/3/1999</dateOfBirth>
+   </Account>
+<Account>
+      <userName>Eshan</userName>
+      <Email>eshan@gmail.com</Email>
+      <password>eshan123</password>
+      <balance>1600</balance>
+      <dateOfBirth>3/6/1997</dateOfBirth>
+   </Account>
+</Information>
